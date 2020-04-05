@@ -1,4 +1,4 @@
-Implémentation des Matrices Creuses (en utilisant les listes linéaires chaînées )
+## Implémentation des Matrices Creuses (en utilisant les listes linéaires chaînées )
 1.	Construire (et afficher) une matrice creuse à partir d'une matrice pleine (représentée par un vecteur de deux dimensions classique) équivalente.
 2.	Calculer la somme, produit, produit par un scalaire ... des matrices creuses,
 3.	Calculer la transposée, le déterminant, l'inverse d'une matrice creuse,
